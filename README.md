@@ -15,4 +15,6 @@ It is useful for simple calculations.
 * Flutter
 * Dart
 
-![WhatsApp Image 2023-03-30 at 1 11 59 PM](https://user-images.githubusercontent.com/90473454/228765347-3d3baaeb-9116-4269-b353-0560d70bb125.jpeg)
+<p align="center">
+  <img src="https://user-images.githubusercontent.com/90473454/228765347-3d3baaeb-9116-4269-b353-0560d70bb125.jpeg"  height="600">
+</p>
